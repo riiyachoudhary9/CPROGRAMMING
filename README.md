@@ -1,7 +1,7 @@
-<h1 align="center" style="color:#FF69B4;">💻 C Programming 💻</h1>
+<h1 align="center" style="color:#FF69B4;"> C Programming </h1>
 <p align="center">
   A collection of my C programming learning resources, notes, and exercises.  
-  Mastering the fundamentals one program at a time! 🌸
+  Mastering the fundamentals one program at a time! 
 </p>
 
 <p align="center">
@@ -11,19 +11,19 @@
 
 ---
 
-## 💖 About This Repository
+##  About This Repository
 This repository contains my **C programming notes, exercises, and learning experiments**.  
 It covers topics from basics to intermediate level: variables, loops, arrays, functions, pointers, and more!  
 
 ---
 
-## 🌷 Topics Covered
-- Basics: Variables, Data Types, Operators 🌸  
-- Control Flow: Loops & Conditionals 💕  
-- Functions & Recursion 🎀  
-- Arrays & Strings ✨  
-- Pointers & Memory Management 💖  
-- File Handling 📂  
+##  Topics Covered
+- Basics: Variables, Data Types, Operators  
+- Control Flow: Loops & Conditionals
+- Functions & Recursion 
+- Arrays & Strings
+- Pointers & Memory Management   
+- File Handling  
 
 ---
 
